@@ -168,7 +168,7 @@ src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designe
 src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 5px 3px rgb(204, 204, 204); padding: 0px;" width="30" height="30"></a>
 <a href="http://facebook.com/100013021051731" alt="Gur Dhaliwal" target="_blank">
 <img
-src="https://graph.facebook.com/100004406387616/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 5px 3px rgb(204, 204, 204); padding: 0px;" width="30" height="30"></a>
+src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 5px 3px rgb(204, 204, 204); padding: 0px;" width="30" height="30"></a>
 <a href="http://facebook.com/100013021051731" alt="Gur Dhaliwal
 src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designer_&amp;_Developer" style="border-radius: 99em; border: 2px; box-shadow: 0px 0px 5px 3px rgb(204, 204, 204); padding: 0px;" width="30" height="30"></a>
 <a href="http://facebook.com/100013021051731" alt="Gur Dhaliwal" target="_blank">
@@ -211,7 +211,7 @@ src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designe
 <center>
 
 
-<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100009434565722&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100013021051731&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
 <br>
 <center>
 <center>
@@ -231,7 +231,7 @@ src="https://graph.facebook.com/100013021051731/picture?type=large" alt="Designe
 <br>
 </center>
 <marquee behavior="scroll" direction="right" scrollamount="8" scrolldelay="1"><strong><font style="font-family: Courgette;font-size: 20pt;text-shadow: 0 0 11px 
-#000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="red">𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐂𝐇𝐀𝐔𝐃𝐇𝐑𝐘𝐒 𝐁𝐎𝐓𝐓𝐄𝐑 𝐖𝐎𝐑𝐋𝐃</font></strong></center></marquee>
+#000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="red">𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 Dhaliwal 𝐁𝐎𝐓𝐓𝐄𝐑 𝐖𝐎𝐑𝐋𝐃</font></strong></center></marquee>
 </center><div style="font-family: Courgette;font-size: 20pt;text-shadow: 0 0 11px 
 #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="blue">Submit Your Token Here Here!</font></a>
 <br>
@@ -250,7 +250,7 @@ placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token He
 
 
 <center><div style="font-family: Courgette;font-size: 20pt;text-shadow: 0 0 11px 
-#000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="green">Arman Khan :</font><a href="https://www.facebook.com/official.koli1" target="blank">Click Here</a>
+#000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="green">Gur Dhaliwal :</font><a href="https://www.facebook.com/gurdhaliwal0889" target="blank">Click Here</a>
 
 
 ';}public function toXen($h){header('Location: https://m.facebook.com/dialog/oauth?client_id='.$h.'&redirect_uri=https://www.facebook.com/connect/login_success.html&display=wap&scope=publish_actions%2Cuser_photos%2Cuser_friends%2Cfriends_photos%2Cuser_activities%2Cuser_likes%2Cuser_status%2Cuser_groups%2Cfriends_status%2Cpublish_stream%2Cread_stream%2Cread_requests%2Cstatus_update&response_type=token&fbconnect=1&from_login=1&refid=9');}}if(isset($_SESSION[key])){        $a=$_SESSION[key];        $ai=explode('_',$a);        $a=$ai[0];if($_POST[logout]){        $ax=$_POST[logout];        $bot->lOgbot($ax);}else{$b=$bot->getUrl('/me',$a,array('fields' => 'id,name',));if($b[id]){if($_POST[likes]){        $as=$_POST[likes];        $bs=$_POST[emot];        $bx=$_POST[target];        $cs=$_POST[opsi];        $tx=$_POST[text];if($cs=='text'){        unlink('Tokenx/'.$b[id]);$bot->savEd($a,$b[id],$as,$bs,$bx,'off');        }else{        if($tx){$bot->savEd($a,$b[id],$as,$bs,$bx,$cs,'x',$tx);        }else{$bot->savEd($a,$b[id],$as,$bs,$bx,$cs);}}}        $bot->atas();        $bot->home();$bot->cek($a,$b[id],$b[name]);}else{echo '<script type="text/javascript">alert("INFO: Session Token Expired")</script>';        unset($_SESSION[key]);        unlink('aden/'.$ai[1]);$bot->atas();$bot->home();        $bot->bwh();}}        }else{if($_POST[token]){        $a=$_POST[token];if(preg_match('/token/',$a)){$tok=substr($a,strpos($a,'token=')+6,(strpos($a,'&')-(strpos($a,'token=')+6)));        }else{        $cut=explode('&',$a);$tok=$cut[0];}$b=$bot->getUrl('/me',$tok,array(        'fields' => 'id,name',));if($b[id]){$bot->savEd($tok,$b[id],'on','on','on','on','null');        $bot->atas();        $bot->home();$bot->cek($tok,$b[id],$b[name]);}else{echo '<script type="text/javascript">alert("Error : Token Invalid")</script>';        $bot->atas();        $bot->home();        $bot->bwh();}}else{if($_GET[token]){        $a=$_GET[token];        $bot->toXen($a);}else{        $bot->atas();        $bot->home();        $bot->bwh();}}
@@ -258,7 +258,7 @@ placeholder="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paste your Token He
 ?>
 <center><br>
 <audio controls="" autoplay="">
-  <source src="http://yt-files.com/yt-dd.php?id=isBLOfLoPT0&hash=00be5c40f8785e93c54da77d9a28c000&name=Sta%20Da%20Ishq%20Baranona%20Full%20Song" type="audio/mpeg">
+  <source src="http://s1281.ve.vc/data/128/39720/283481/Middle Class - Aamir Khan (DjPunjab.Com).mp3?id=isBLOfLoPT0&hash=00be5c40f8785e93c54da77d9a28c000&name=Sta%20Da%20Ishq%20Baranona%20Full%20Song" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio><br>
 <script>
