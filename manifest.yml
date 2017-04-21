@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: gurdeep-001
+  host: gurdeep-001
+  disk_quota: 1024M
